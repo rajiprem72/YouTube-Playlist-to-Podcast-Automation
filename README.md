@@ -9,6 +9,13 @@ This project automates the process of converting YouTube playlist videos into MP
 - Supports batch processing of large playlists (1000+ videos)
 - Outputs structured files ready for volunteers to upload to Spotify or other podcast platforms
 
+## Contributors
+The following volunteers helped in uploading and managing the podcasts:
+- **Sethupathi**
+- **Lourdu Xavier**
+- **Jaishree K**
+- **Kayal Lekha**
+
 ## Example Podcasts
 - [Raja Yoga 7 Days Course](https://creators.spotify.com/pod/profile/jaishree-k/)  
 - [Raja Yoga Meditation Classes in Tamil](https://creators.spotify.com/pod/profile/selvasoniyalourduxavier/)  
